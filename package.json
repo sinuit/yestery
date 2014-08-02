@@ -1,0 +1,13 @@
+{
+  "name": "train-of-thought",
+  "version": "0.0.0",
+  "main": "app.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.6.1",
+    "nedb": "0.10.6",
+    "body-parser": "1.5.0",
+    "multer": "~0.1.3"
+  }
+}

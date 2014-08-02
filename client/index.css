@@ -1,0 +1,16 @@
+.add-form {
+  position:fixed; background: #eee; height: 100%; top: 50px; right: 0px;
+}
+
+.thought-list {
+	padding-bottom: 270px;
+}
+
+.thought-list img {
+  width: 100px;
+  height: auto;
+}
+
+.add-form.dragover {
+  background: #333;
+}
